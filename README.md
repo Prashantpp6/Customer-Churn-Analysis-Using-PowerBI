@@ -13,7 +13,7 @@
 2. Excel
 
 ## Key Insights:
-![key insights](https://github.com/DataVizExpert-Sham/Predictive-Customer-Analytics-in-Power-BI/assets/151017676/af60d484-23ad-4c03-ad5a-fc9af7ea0af4)
+![key insights](https://github.com/Prashantpp6/Customer-Churn-Analysis-Using-PowerBI/blob/master/key%20insights.png)
 
 
 ## **Benefits:**
