@@ -14,7 +14,7 @@ This project uses **Power BI Desktop** and **Excel** to help businesses prevent 
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Built with
 
 1. **Power BI Desktop**
 2. **Excel**
